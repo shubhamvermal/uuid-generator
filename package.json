@@ -1,0 +1,21 @@
+{
+  "name": "@svpkg/uuid-generator",
+  "version": "0.0.1",
+  "description": "Effortless, Unique, Reliable - Generate UUIDs in a Snap!",
+  "author": "Shubham Verma <shubhamverma1024@gmail.com>",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.14.11",
+    "typescript": "^5.5.3"
+  }
+}
