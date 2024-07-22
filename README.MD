@@ -24,3 +24,4 @@ console.log(uuid);
 ## API
 `generateUUID(): string`
 Generates and returns a UUID string.
+
