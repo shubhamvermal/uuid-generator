@@ -1,6 +1,6 @@
 {
   "name": "@svpkg/uuid-generator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Effortless, Unique, Reliable - Generate UUIDs in a Snap!",
   "author": "Shubham Verma <shubhamverma1024@gmail.com>",
   "main": "./dist/index.js",

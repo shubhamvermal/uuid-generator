@@ -9,13 +9,13 @@ Create universally unique identifiers (UUIDs) with ease using our lightweight, l
 You can install the package using npm:
 
 ```bash
-npm install uuid-generator
+npm install @svpkg/uuid-generator
 ```
 
 
 ## Usage
 ```bash
-const generateUUID = require('uuid-generator');
+const generateUUID = require('@svpkg/uuid-generator');
 
 const uuid = generateUUID();
 console.log(uuid);
